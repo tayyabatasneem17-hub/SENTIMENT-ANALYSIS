@@ -122,3 +122,8 @@ Sentiment predictions for sample/custom texts
 
 
 This project successfully implements sentiment analysis on textual data using NLP techniques. By following an end-to-end workflow, the project demonstrates how raw text can be transformed into valuable insights. Such models can be scaled and deployed in real-world applications such as customer service automation, feedback analysis, and social media monitoring.
+
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/bf176cb5-8461-4c99-bd5e-fbf18b69394f" />
+
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b4996152-be64-4931-b110-25b3be019624" />
